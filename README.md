@@ -4,7 +4,7 @@ Small weather forecasting program using APIs
 
 A small weather forecast page, entirely in JavaScript, using APIs to fetch the weather forecast for a specific city.
 
-To do so, you will have a simple HTML page with a form. The form will let your visitor search for a specific city. Then, using JavaScript, you will get the forecast for that city and modify the HTML page to display it.
+The front-end will have a simple HTML page with a form. The form will let a visitor search for a specific city. Then, using JavaScript, the app will get the forecast for that city and modify the HTML page to display it.
 
 I'll use two APIs:
 
