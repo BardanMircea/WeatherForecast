@@ -8,9 +8,9 @@ The front-end will have a simple HTML page with a form. The form will let a visi
 
 I'll use two APIs:
 
-- the OpenCage Geocoder API will help you get the GPS coordinates from the city name
+- the OpenCage Geocoder API to get the GPS coordinates from the city name
 
-- the OpenWeather API will give you the weather forecast for the next 7 days for given GPS coordinates (you will use their One Call API)
+- the OpenWeather API to get the weather forecast for the next 7 days for given GPS coordinates (you will use their One Call API)
 
 You need to sign up to obtain an API key, for both APIs. Figuring out how to use the APIs (how to format your URL and how to use the data it sends back) is part of the project!
 
