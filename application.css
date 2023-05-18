@@ -1,0 +1,53 @@
+html{
+    background-color: skyblue;
+    height: 100vh;
+    width: 100vw;
+}
+
+h1 {
+    text-align: center;
+    color : black;
+}
+
+.night {
+    color : white
+}
+
+input[type=submit]{
+    background-color: cadetblue;
+    color: black;
+}
+
+img {
+    height: 100px;
+}
+
+.date-and-time {
+    color: "navy";
+    margin-top: 50px;
+    margin-bottom: 50px
+}
+
+.col-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    flex-flow: row wrap;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}  
+
