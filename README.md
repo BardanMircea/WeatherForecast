@@ -12,8 +12,6 @@ I'll use two APIs:
 
 - the OpenWeather API to get the weather forecast for the next 7 days for given GPS coordinates (you will use their One Call API)
 
-You need to sign up to obtain an API key, for both APIs. Figuring out how to use the APIs (how to format your URL and how to use the data it sends back) is part of the project!
-
 If you wish to, you may use jQuery (to manipulate the DOM) and Bootstrap (to style your page more easily).
 
 Step 1
