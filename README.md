@@ -13,13 +13,9 @@ I'll use two APIs:
 - the OpenWeather API to get the weather forecast for the next 7 days for given GPS coordinates (you will use their One Call API)
 
 
-When it comes to displaying the information on the HTML page, you will group it into the 5 following weathers:
+When it comes to displaying the information on the HTML page, I will group it into the 5 following weathers:
 - Clear
 - Snow
 - Clouds (if there are more than 50% of clouds)
 - Cloudy (between 0 and 50% of clouds)
 - Rain (in all other cases, so including Thunderstorm, Mist, etc)
-
-Here's a set of weather icons to get you started:
-
-weather icons
