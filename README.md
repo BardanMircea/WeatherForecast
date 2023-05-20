@@ -10,7 +10,7 @@ It'll use two APIs:
 
 - the OpenCage Geocoder API to get the GPS coordinates from the city name
 
-- the OpenWeather API to get the weather forecast for the next 7 days for given GPS coordinates (you will use their One Call API)
+- the OpenWeather API to get the weather forecast for the next 7 days for given GPS coordinates (One Call API)
 
 
 When it comes to displaying the information on the HTML page, it will be grouped into the 5 following weathers:
